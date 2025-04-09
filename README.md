@@ -13,4 +13,4 @@ Order creation and summary
 
 Price computation and receipt generation
 
-(Optional) Inventory tracking or simple database file storage
+Inventory tracking or simple database file storage
