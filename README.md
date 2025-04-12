@@ -4,7 +4,6 @@ This is a desktop-based ordering system developed in Java for a local Filipino-s
 
 🔹 Built using Java SE (Standard Edition)
 🔹 Follows an object-oriented design
-🔹 Uses console-based UI or Java Swing (depending on your implementation)
 🔹 Features:
 
 Menu listing with Silog meals
